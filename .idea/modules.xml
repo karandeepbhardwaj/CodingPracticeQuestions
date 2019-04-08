@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodingPracticeQuestions.iml" filepath="$PROJECT_DIR$/CodingPracticeQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingQuestions/CodingQuestions.iml" filepath="$PROJECT_DIR$/CodingQuestions/CodingQuestions.iml" />
+    </modules>
+  </component>
+</project>
